@@ -1,0 +1,3 @@
+- buat database baru dengan nama = db_uts_e2
+- import file db_uts_e2.sql ke dalam database db_uts_e2
+- jalankan netbeans import project pilih folder project
